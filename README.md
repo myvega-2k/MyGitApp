@@ -6,3 +6,4 @@
 
 #### SourceTree 사용하기
 * sourcetree에서 add / commit 하기
+* dev/login 브랜치에서 버그를 수정함
