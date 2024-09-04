@@ -10,3 +10,7 @@ function logout() {
 function check() {
     console.log('check 함수');
 }
+
+function main1() {
+    console.log('main1')
+}
