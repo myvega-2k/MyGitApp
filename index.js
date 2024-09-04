@@ -25,3 +25,7 @@ function amend() {
 function bug_fix() {
     console.log('bug_fix')
 }
+
+function dev_func() {
+    console.log('dev_func')
+}
