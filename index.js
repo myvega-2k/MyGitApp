@@ -10,3 +10,14 @@ function logout() {
 function check() {
     console.log('check 함수');
 }
+
+function main1() {
+    console.log('main1')
+}
+
+function main2() {
+    console.log('main2')
+}
+function amend() {
+    console.log('### >>>> amend1 <<<<');
+}
