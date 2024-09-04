@@ -21,3 +21,7 @@ function main2() {
 function amend() {
     console.log('### >>>> amend1 <<<<');
 }
+
+function bug_fix() {
+    console.log('bug_fix')
+}
