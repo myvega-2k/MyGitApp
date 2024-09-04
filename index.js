@@ -18,3 +18,6 @@ function main1() {
 function main2() {
     console.log('main2')
 }
+function amend() {
+    console.log('### >>>> amend1 <<<<');
+}
