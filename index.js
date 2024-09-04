@@ -6,3 +6,7 @@ function login(username) {
 function logout() {
     console.log('logout');
 }
+
+function check() {
+    console.log('check 함수');
+}
