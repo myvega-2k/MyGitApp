@@ -14,3 +14,7 @@ function check() {
 function main1() {
     console.log('main1')
 }
+
+function main2() {
+    console.log('main2')
+}
