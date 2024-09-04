@@ -4,7 +4,7 @@ function login(username) {
 };
 
 function logout() {
-    console.log('logout');
+    console.log('logout 처리하기');
 }
 
 function check() {
